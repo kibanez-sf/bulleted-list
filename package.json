@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkaplan-github/bulleted-list.git"
+    "url": "git+https://github.com/kibanez-sf/bulleted-list.git"
   },
-  "author": "Brian Kaplan",
+  "author": "Karen Ibanez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bkaplan-github/bulleted-list/issues"
+    "url": "https://github.com/kibanez-sf/bulleted-list/issues"
   },
-  "homepage": "https://github.com/bkaplan-github/bulleted-list#readme",
+  "homepage": "https://github.com/kibanez-sf/bulleted-list#readme",
   "dependencies": {
     "@salesforce-ux/design-system": "^2.5.2",
     "blocksdk": "^1.0.0",
